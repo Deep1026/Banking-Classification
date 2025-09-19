@@ -18,7 +18,7 @@ This project applies **Support Vector Machines (SVM)** to the **Bank Marketing D
 
 ---
 
-## 🧠 Models Evaluated  
+## Models Evaluated  
 
 1. **Linear SVM (unweighted)**  
 2. **RBF SVM**  
@@ -27,7 +27,7 @@ This project applies **Support Vector Machines (SVM)** to the **Bank Marketing D
 
 ---
 
-## 📈 Results  
+## Results  
 
 ### Linear SVM (Unweighted)  
 - Accuracy: **90.5%**  
